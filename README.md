@@ -1,4 +1,4 @@
-# armada: a FREE native macOS command-line tool to set animated videos and GIFs as your desktop wallpaper.
+# armada: a FREE app for MacOS for custom live wallpapers.
 
 ## Installation
 
