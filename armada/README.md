@@ -4,8 +4,6 @@ A native macOS command-line tool to set animated videos and GIFs as your desktop
 
 ## Installation
 
-# XCODE APPLICATION IS REQUIRED FOR ALL BUILDS!
-
 ### Homebrew (Recommended)
 
 ```bash
